@@ -1,0 +1,13 @@
+/bin
+/lib
+/lib64
+/include
+
+backend/localsettings.py
+**.pyc
+**.cfg
+.env
+env
+count
+__pycache__
+venv
